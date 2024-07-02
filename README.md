@@ -2,6 +2,10 @@
 
 From - https://github.com/project-error/fivem-react-boilerplate-lua
 
+# Added
+ * TailwindCSS
+ * Mui
+
 
 <div align="center">
     <img href="https://projecterror.dev" width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo" />
